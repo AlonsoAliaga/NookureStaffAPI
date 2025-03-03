@@ -1,0 +1,12 @@
+name: NookureStaffAPI
+main: com.alonsoaliaga.nookurestaffapi.NookureStaffAPIPlugin
+version: '${project.version}'
+author: AlonsoAliaga
+api-version: "1.13"
+description: "NookureStaff utility to access API."
+softdepend:
+  - NookureStaff
+commands:
+#  mycommand:
+#    description: MyCommand main command.
+#    aliases: []
