@@ -30,3 +30,5 @@ to deal with all injector stuff to get player options like staff chat enabled or
 
 ## Plugin statistics
 ![bStats.org](https://bstats.org/signatures/bukkit/NookureStaffAPI.svg)
+
+# :warning: NookureStaffAPI is NOT affiliated to NookureStaff plugin, errors here should not be reported to them.
