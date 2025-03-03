@@ -27,7 +27,7 @@ public class NookureStaffAPIPlugin extends JavaPlugin {
             LocalUtils.loge("NookureStaff not found! This plugin was made to expose NookureStaff API");
             LocalUtils.loge("to be able to be used by other plugins without worrying too much.");
             LocalUtils.loge("Since NookureStaff is not installed, this plugin is not necessary.");
-            LocalUtils.loge("Disabling NookureStaffAPI..");
+            LocalUtils.loge("Disabling NookureStaffAPI this time..");
             LocalUtils.loge("===============================================================================");
             Bukkit.getPluginManager().disablePlugin(this);
             return;
