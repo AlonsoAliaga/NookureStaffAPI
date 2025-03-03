@@ -17,7 +17,7 @@ as they are performed first.\
 For this reason this plugin provides an easy way to access the API of NookureStaff without having\
 to deal with all injector stuff to get player options like staff chat enabled or vanish enabled.\
 \
-**Available methods here:** [DeveloperAPI](https://github.com/AlonsoAliaga/NookureStaffAPI/wiki)
+**Available methods here:** [DeveloperAPI](https://github.com/AlonsoAliaga/NookureStaffAPI/wiki/DeveloperAPI)
 
 ## Resources
 - [Spigot resource (Not released)](https://github.com/AlonsoAliaga/NookureStaffAPI/)
